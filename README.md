@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/AvaVenturino/ICS20-Unit2-01-html)](https://repl.it/github/AvaVenturino/ICS20-Unit2-01-html)
 
-This site can be found at: [https://AvaVenturino.github.io/ICS20-Unit2-01-html](https://AvaVenturino.github.io/ICS20-Unit2-01-html)
+This site can be found at: [https://AvaVenturino.github.io/ICS20-Unit2-01-HTML/](https://AvaVenturino.github.io/ICS20-Unit2-01-HTML/)
